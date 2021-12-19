@@ -1,13 +1,13 @@
-package com.code.fuqinqin.kafkalearn.cases.case1;
+package com.code.fuqinqin.kafkalearn.cases.clear;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KafkaLearnApplication {
+public class ClearApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(KafkaLearnApplication.class, args);
+        SpringApplication.run(ClearApplication.class, args);
     }
 
 }

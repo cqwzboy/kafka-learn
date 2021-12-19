@@ -1,4 +1,4 @@
-package com.code.fuqinqin.kafkalearn.cases.case2.produce;
+package com.code.fuqinqin.kafkalearn.cases.case2_produce_model.produce;
 
 /**
  * kafka生产类型

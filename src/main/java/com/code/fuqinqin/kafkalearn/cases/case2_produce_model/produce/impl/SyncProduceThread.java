@@ -1,7 +1,7 @@
-package com.code.fuqinqin.kafkalearn.cases.case2.produce.impl;
+package com.code.fuqinqin.kafkalearn.cases.case2_produce_model.produce.impl;
 
-import com.code.fuqinqin.kafkalearn.cases.case2.produce.ProduceCounter;
-import com.code.fuqinqin.kafkalearn.cases.case2.produce.ProduceType;
+import com.code.fuqinqin.kafkalearn.cases.case2_produce_model.produce.ProduceCounter;
+import com.code.fuqinqin.kafkalearn.cases.case2_produce_model.produce.ProduceType;
 import com.code.fuqinqin.kafkalearn.common.constant.TopicConstant;
 import lombok.SneakyThrows;
 import org.apache.kafka.clients.producer.ProducerRecord;

@@ -1,4 +1,4 @@
-package com.code.fuqinqin.kafkalearn.cases.case2.produce.impl;
+package com.code.fuqinqin.kafkalearn.cases.case2_produce_model.produce.impl;
 
 import com.code.fuqinqin.kafkalearn.common.util.Configuration;
 import org.apache.kafka.clients.producer.KafkaProducer;

@@ -1,8 +1,8 @@
-package com.code.fuqinqin.kafkalearn.cases.case2.produce;
+package com.code.fuqinqin.kafkalearn.cases.case2_produce_model.produce;
 
-import com.code.fuqinqin.kafkalearn.cases.case2.produce.impl.AsyncProduceThread;
-import com.code.fuqinqin.kafkalearn.cases.case2.produce.impl.FireAndForgetProduceThread;
-import com.code.fuqinqin.kafkalearn.cases.case2.produce.impl.SyncProduceThread;
+import com.code.fuqinqin.kafkalearn.cases.case2_produce_model.produce.impl.AsyncProduceThread;
+import com.code.fuqinqin.kafkalearn.cases.case2_produce_model.produce.impl.FireAndForgetProduceThread;
+import com.code.fuqinqin.kafkalearn.cases.case2_produce_model.produce.impl.SyncProduceThread;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 

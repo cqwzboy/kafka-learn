@@ -1,4 +1,4 @@
-package com.code.fuqinqin.kafkalearn.cases.case1;
+package com.code.fuqinqin.kafkalearn.cases.case1_start;
 
 import com.code.fuqinqin.kafkalearn.common.constant.TopicConstant;
 import com.code.fuqinqin.kafkalearn.common.util.Configuration;
